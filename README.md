@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @graceytlin
-- 📫 I'm a final year computer science student @ the University of Surrey
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning React.js
+- 📫 I'm a software engineer with over 3 years of experience
+- 🌱 Currently reading Algorithms of Oppression by Safiya Noble
 
 You can find me on LinkedIn - https://www.linkedin.com/in/graceytlin
